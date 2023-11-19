@@ -3,7 +3,7 @@
 
 # Instruções para jogar em formato .exe
 
-Esse jogo foi criado para rodar em monitores acima de 19 polegadas, abaixo disso pode distorcer as imagens.
+Esse jogo foi criado preferencialmente para rodar em resolução acima de 1600x900 pixels, abaixo disso pode distorcer as imagens.
 
 Ao iniciar o jogo, é possível deixar em modo de tela cheia apertando o atalho do seu teclado alt+f4.
 
